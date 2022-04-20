@@ -1,1 +1,10 @@
-# Comp-Graphic-and-Visualization
+# Journal
+
+**How do I approach designing software?**
+This project has helped me find better ways to overcome problems when programming does not result as expected. This was definitely challenging as there was so much material to consider and so much code that was new to me; however, I was able to see past through it and focus on the main purpose of the program and how it actually works, first by simply making numerical changes to the tutorials, an then changing methods and functions to obtain a different behavior for my personal design, rather than simply reusing code that I didn't even understand. With that, it was more clear to me how different lines of code worked and what was their importance. Furthermore, I did extra research on my own to solve most of the issues I came to whenever an error appeared when compiling my code.
+
+**How do I approach developing programs?**
+I consider making my main code as short and concise as possible, avoiding having to repeat the same lines of code by developing personalized functions that can achieve the expected behavior, being able to reuse them as much as needed with the main code or other functions. The whole project was very big, however, modularizing certain behavior into functions made the main program simple to understand and manipulate. Another thing I approach developing programs is by constantly trying, testing and failing; at the end, solving any errors help me better understand why something did not work as expected, therefore, helps me see the bigger picture and what to avoid in future programming.
+
+**How can computer science help me in reaching my goals?**
+This course not only gave me a better practice and increased my coding skills, but also help me develop better strategies to solve complicated problems and how I process the information I find from outside sources, which will not only help me specifically on this course, but also in any other course or professional project that will require a lot of research and material review.
